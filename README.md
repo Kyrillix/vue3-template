@@ -28,6 +28,12 @@ npm run dev
 npm run build
 ```
 
+### Run to use [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+```sh
+npm run format
+```
+
 ### Run Unit Tests with [Vitest](https://vitest.dev/)
 
 ```sh
